@@ -11,3 +11,4 @@ With a strong drive for learning and problem-solving, I embrace challenges and e
 | AxiomLab            | Owner/Software Developer | Jan 2022 - Present  | Developing plugins and mods for Minecraft |
 | Elefant AI          | Moderation               | Oct 2024 - Present  | Designed and implemented responsive web interfaces |
 | Rocket Tech School LLC           | Teacher     | Jan 2022 - May 2024 | Teaching Cybersecurity   |
+|Gymnasium "Am Breiten Teich"| LernSax Server manager |Jan 2015 - Present| Working with bugs, updating servers |
