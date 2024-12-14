@@ -18,6 +18,5 @@ With a strong drive for learning and problem-solving, I embrace challenges and e
 |------------|
 | University of Leipzig |
 | Gymnasium "Am Breiten Teich" Borna |
-| IT Future Irpin |
-| Rocket Tech School |
+| Grundschule "Kinder Dieser Welt" |
 ![legacyfabric-mixin](https://github.com/user-attachments/assets/3de8e368-ff15-414c-8084-60b3634e70cf)
